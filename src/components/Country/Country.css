@@ -1,0 +1,17 @@
+.country{
+    border: 2px solid tomato;
+    padding: 30px;
+    margin: 15px;
+    border-radius: 30px;
+}
+.btn:hover{
+    background-color: aqua;
+
+}
+.btn{
+    background-color: gainsboro;
+}
+
+.visited{
+    background-color: bisque;
+}
